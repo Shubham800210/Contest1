@@ -1,0 +1,9 @@
+h1{
+    font-size: 2rem;
+    line-height: 25px;
+    text-decoration-line: underline;
+    color: #000000;
+}
+.details{
+    border: 1px solid black;
+}
